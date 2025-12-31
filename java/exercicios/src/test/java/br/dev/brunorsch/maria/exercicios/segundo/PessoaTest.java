@@ -5,6 +5,11 @@ import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;
 
+/**
+ * Para fazer esse exercicio, tu vai precisar
+ * aprender sobre construtores e exceptions.
+ * Também vai ser bom ver algo sobre como usar if e boolean.
+ */
 class PessoaTest {
     @Test
     void deveCriarPessoaComNomeEIdade() {
