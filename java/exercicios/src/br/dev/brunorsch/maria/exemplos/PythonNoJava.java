@@ -1,4 +1,4 @@
-package br.dev.brunorsch.maria.exercicios;
+package br.dev.brunorsch.maria.exemplos;
 
 import static br.dev.brunorsch.maria.utils.Input.input;
 

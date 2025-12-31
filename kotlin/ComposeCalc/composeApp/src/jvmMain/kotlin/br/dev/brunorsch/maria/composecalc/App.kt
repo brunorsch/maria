@@ -54,6 +54,7 @@ fun App() {
             return ""
         }
 
+
         fun handleBotao(botaoTexto: String) {
             if(botaoTexto == "=") {
                 val resultadoCalculado = calcularResultado(operacao)

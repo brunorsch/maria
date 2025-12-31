@@ -1,4 +1,4 @@
-package br.dev.brunorsch.maria.exercicios;
+package br.dev.brunorsch.maria.exemplos;
 
 import java.text.DecimalFormat;
 
