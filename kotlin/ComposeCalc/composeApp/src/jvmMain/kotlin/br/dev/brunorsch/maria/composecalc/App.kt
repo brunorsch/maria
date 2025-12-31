@@ -25,7 +25,6 @@ fun App() {
         listOf("0", ".", "=", "+"),
         listOf("Limpar")
     )
-    val operacoesPossiveis = listOf("+", "-", "*", "/")
 
     MaterialTheme {
         var operacao by remember { mutableStateOf("") }
